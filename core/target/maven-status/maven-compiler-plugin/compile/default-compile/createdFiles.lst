@@ -1,0 +1,11 @@
+com\adobe\flagtick\core\listeners\package-info.class
+com\adobe\flagtick\core\models\package-info.class
+com\adobe\flagtick\core\schedulers\SimpleScheduledTask.class
+com\adobe\flagtick\core\schedulers\SimpleScheduledTask$Config.class
+com\adobe\flagtick\core\servlets\package-info.class
+com\adobe\flagtick\core\listeners\SimpleResourceListener.class
+com\adobe\flagtick\core\servlets\SimpleServlet.class
+com\adobe\flagtick\core\models\HelloWorldModel.class
+com\adobe\flagtick\core\filters\package-info.class
+com\adobe\flagtick\core\filters\LoggingFilter.class
+com\adobe\flagtick\core\schedulers\package-info.class

@@ -1,0 +1,4 @@
+com\adobe\flagtick\it\tests\PublishPageValidationIT.class
+com\adobe\flagtick\it\tests\GetPageIT.class
+com\adobe\flagtick\it\tests\HtmlUnitClient.class
+com\adobe\flagtick\it\tests\CreatePageIT.class

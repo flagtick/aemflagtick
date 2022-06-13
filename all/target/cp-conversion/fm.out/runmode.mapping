@@ -1,0 +1,5 @@
+#File edited by the Apache Sling Content Package to Sling Feature converter
+#Fri Jun 10 13:54:53 ICT 2022
+author=flagtick.all-author.json
+publish=flagtick.all-publish.json
+(default)=flagtick.all.json

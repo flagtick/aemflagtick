@@ -1,0 +1,7 @@
+com\adobe\flagtick\core\models\HelloWorldModelTest.class
+com\adobe\flagtick\core\filters\LoggingFilterTest.class
+com\adobe\flagtick\core\testcontext\AppAemContext$1.class
+com\adobe\flagtick\core\schedulers\SimpleScheduledTaskTest.class
+com\adobe\flagtick\core\servlets\SimpleServletTest.class
+com\adobe\flagtick\core\listeners\SimpleResourceListenerTest.class
+com\adobe\flagtick\core\testcontext\AppAemContext.class
